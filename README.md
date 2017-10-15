@@ -9,7 +9,7 @@ docker run -d --name containername \
 ```
 `! Require ENV MEMORY_LIMIT !`
  
-Default installed plugins munin-node
+Default installed plugins munin-node:
 
 * `memcached_bytes`
 * `memcached_counters`
